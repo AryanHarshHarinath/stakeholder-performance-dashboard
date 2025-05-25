@@ -1,5 +1,5 @@
 # stakeholder-performance-dashboard
-A Tableau dashboard visualizing stakeholder insights and performance metrics including premiums, shareholding patterns, insurer value, and profitability indicators.
+
 ![Screenshot 2025-05-11 113546](https://github.com/user-attachments/assets/daad7ece-1dc6-4315-a2f3-fb4d0ac98621)
 # Stakeholder Insights and Performance Dashboard (Tableau)
 
